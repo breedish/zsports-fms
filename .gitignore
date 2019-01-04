@@ -1,5 +1,12 @@
 # Compiled
 *.elc
+.DS_Store
+*.class
+*.idea
+*.iml
+*.ipr
+target
+build
 
 # Packaging
 .cask
